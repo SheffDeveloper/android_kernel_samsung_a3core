@@ -1,2 +1,4 @@
 
 tools/lib64/libart.so
+out/
+/out
